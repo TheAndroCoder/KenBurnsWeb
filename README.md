@@ -1,6 +1,8 @@
 # KenBurns Effect
 ### Beautiful Kenburns Effect on Images in Webpage
-` Note : This is a jQuery based library, please import jQuery before importing this library`
+```
+Note : This is a jQuery based library, please import jQuery before importing this library
+```
 <br><br>
 **How To Import?**
 ```html
@@ -15,11 +17,16 @@ You need to set a height and width to this div. You can do this either inline or
 ```
 Then in Your Javascript you need to initialise the KenBurns View.
 ```javascript
+//Initialise KenBurns class
 let kenburns = new KenBurns('kenburns-div')
+//Add as many Images as you want ! It will perform a slideshow of the images
 kenburns.addImageSource('/images/image1.jpg')
 kenburns.addImageSource('/images/image2.jpg')
+// Zoom In Effect Time
 kenburns.zoomInTime(5000)
+// Zoom Out Effect Time
 kenburns.zoomOutTime(5000)
+// Start Effect
 kenburns.startEffect()
 ```
 And Thats All !! Enjoy Web Development !!
