@@ -1,2 +1,2 @@
 # KenBurnsWeb
-KenBurns Effect in web images
+### Beautiful Kenburns Effect on Images in Webpage
