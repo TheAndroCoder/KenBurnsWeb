@@ -1,15 +1,14 @@
 # KenBurns Effect
 ### Beautiful Kenburns Effect on Images in Webpage
 ```
-Note : This is a jQuery based library, please import jQuery before importing this library
+**Note : This is a jQuery based library, please import jQuery before importing this library**
 ```
-<br><br>
 **How To Import?**
 ```html
 <script src="https://cdn.jsdelivr.net/gh/TheAndroCoder/KenBurnsWeb/KenBurns.js"></script>
 ```
 **Usage :**
-<br>
+<br><br>
 The usage is very simple you just need to allocate a div in your html where you need the Images to have Kenburns effect.
 You need to set a height and width to this div. You can do this either inline or in an external css file.
 ```html
