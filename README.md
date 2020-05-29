@@ -1,9 +1,6 @@
 # KenBurns Effect
 ### Beautiful Kenburns Effect on Images in Webpage
-<video controls loop width="100%" height="240" autoplay>
-  <source src="https://github.com/TheAndroCoder/KenBurnsWeb/blob/master/Trimmed%20Kenburns.mp4?raw=true" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+
 ```
 **Note : This is a jQuery based library, please import jQuery before importing this library**
 ```
